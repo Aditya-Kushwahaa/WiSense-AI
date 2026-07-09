@@ -4,7 +4,6 @@
 
 > **Transform an ordinary WiFi network into an intelligent, camera-free human sensing system using ESP32 and AI.**
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![ESP32](https://img.shields.io/badge/Hardware-ESP32-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-yellow)
 ![AI](https://img.shields.io/badge/Edge-AI-red)
